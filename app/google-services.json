@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904925208518",
+    "firebase_url": "https://prout-ed783.firebaseio.com",
+    "project_id": "prout-ed783",
+    "storage_bucket": "prout-ed783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904925208518:android:24dc52f1ff509a2e",
+        "android_client_info": {
+          "package_name": "com.example.apprenti.proutmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904925208518-447s36dn525u4iahlp1mohhngvjcdu2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZkTEZADghgz_I-tRhPPKrfJ7NVE5Ej24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
